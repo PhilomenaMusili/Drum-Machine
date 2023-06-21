@@ -10,6 +10,7 @@ Interactive drum pads that respond to clicks and keyboard input.
 Adjustable volume control.
 Recording functionality to save and playback drum patterns.
 Adjustable playback speed for recorded patterns.
+
 ## Technologies Used
 
 React: JavaScript library for building user interfaces.
@@ -33,9 +34,11 @@ Install dependencies:
 Start the application:
 
 npm start
+
 Open the application in your browser:
 
 http://localhost:3000
+
 Interact with the drum pads to play different drum sounds. You can also use the corresponding keyboard keys.
 
 Adjust the volume slider to control the volume of the drum sounds.
@@ -55,4 +58,5 @@ Contributions are welcome! If you have any suggestions or improvements for the d
 This project is licensed under the MIT License.
 
 ## Acknowledgments
+
 The drum sounds used in this application are sourced from freeCodeCamp.
