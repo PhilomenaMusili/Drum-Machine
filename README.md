@@ -1,6 +1,9 @@
 # Drum Machine
 The Drum Machine is a web application that allows users to play different drum sounds by clicking on drum pads or pressing corresponding keys on the keyboard. It provides a simple and interactive interface for creating drum patterns and recording them.
 ## Preview
+
+Here is an overview of the Drum machine
+
 ![preview](drumMachine.png)
 
 ## Features
